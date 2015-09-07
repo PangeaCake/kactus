@@ -10,7 +10,7 @@ All of this is hosted from Github Pages, and it's open source too.
 
 Obligatory test of syntax highlighting (random snippets from old code):
 
-{% highlight python3 %}
+{% highlight python %}
 def get_inventory(db, network, user):
     inv = None
     try:
